@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in College of Software , Nainkai University, 2016-2020
+* B.E. in College of Software, Nainkai University, 2016-2020
 * Ph.D student in School of Science and Engineering, The Chinese University of HongKong, Shenzhen, 2020-now
 
 
