@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
 * B.E. in College of Software, Nainkai University, 2016-2020
 * Ph.D student in School of Science and Engineering, The Chinese University of HongKong, Shenzhen, 2020-now
 
 
   
-Teaching Assistent
-======
+### Teaching Assistent
 
 * MAT 2040, Linear Algebra,
 * MAT 3040, Advanced Linear Algebra,
