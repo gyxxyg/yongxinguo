@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Conference papers
 
-{% include base_path %}
+1. *FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning Bias Reduction.* Yongxin Guo, Xiaoying Tang, and Tao Lin. In International Conference on Machine Learning (ICML) 2023.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+### Preprint & Under review papers
+
+1. *Towards Federated Learning on Time-Evolving Heterogeneous Data.* Yongxin Guo, Tao Lin, Xiaoying Tang. preprint (arXiv:2112.13246), appeared in FL-ICML workshop 2021.
+2. *DELTA: Diverse Client Sampling for Fasting Federated Learning.* Lin Wang, YongXin Guo, Tao Lin, and Xiaoying Tang. preprint (arXiv:2205.13925)
+3. *FedConceptEM: Robust Federated Learning Under Diverse Distribution Shifts.* Yongxin Guo, Xiaoying Tang, and Tao Lin. preprint (arXiv:2301.12379), appeared in ICLR Workshop ML4IoT 2023.
