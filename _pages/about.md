@@ -13,7 +13,7 @@ I'm a third-year PhD student in the Chinese University of HongKong, Shenzhen, ve
 ### Research Interests
 
 - Federated Learning
-- Optimization of deep learning
+- Optimization for deep learning
 - Domain Generalization
 
 ### News
