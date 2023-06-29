@@ -7,7 +7,7 @@ author_profile: true
 
 ### Conference papers
 
-1. *FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning Bias Reduction.* **Yongxin Guo**, Xiaoying Tang, and Tao Lin. In International Conference on Machine Learning (ICML) 2023.
+1. *FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning Bias Reduction.* **Yongxin Guo**, Xiaoying Tang, and Tao Lin. In International Conference on Machine Learning (ICML) 2023. [[paper]](https://openreview.net/pdf?id=nDKoVwNjMH)[[code]](https://github.com/LINs-lab/FedBR).
 
 
 ### Preprint & Under review papers
