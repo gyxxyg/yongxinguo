@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* B.E. in College of Software, Nainkai University, 2016-2020.
+* B.E. in College of Software, Nankai University, 2016-2020.
 * Ph.D student in School of Science and Engineering, The Chinese University of HongKong, Shenzhen, 2020-now.
 
 ### Honors and Awards
 
-* Academic Excellence Scholarships, College of Software, Nainkai University, 2016-2018.
-* Excellent Graduation Thesis, College of Software, Nainkai University.
+* Academic Excellence Scholarships, College of Software, Nankai University, 2016-2018.
+* Excellent Graduation Thesis, College of Software, Nankai University.
 
 ### Academic Service
 
