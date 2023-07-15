@@ -25,9 +25,6 @@ redirect_from:
   
 ### Teaching Assistent
 
-* MAT 2040, Linear Algebra,
-* MAT 3040, Advanced Linear Algebra,
-* MAT 1008, Advanced Mathematics,
-* ERG 3020, Web Analytics and Intelligence.
+* Linear Algebra, Advanced Linear Algebra, Advanced Mathematics, Web Analytics and Intelligence.
 
 
