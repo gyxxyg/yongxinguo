@@ -20,7 +20,7 @@ redirect_from:
 
 ### Academic Service
 
-* *Invited Reviewer*: International Journal of Computer Vision.
+* *Invited Reviewer*: CVPR 2024, International Journal of Computer Vision.
 
   
 ### Teaching Assistent
