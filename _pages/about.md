@@ -18,5 +18,7 @@ I'm a third-year PhD student in the Chinese University of HongKong, Shenzhen, ve
 
 ### News
 
-- *Apr 25, 2023*, Our paper **FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning Bias Reduction** is accepted by [ICML 2023](https://icml.cc/#)!
+- *Sep 22, 2023*, One co-authored [paper](https://arxiv.org/abs/2205.13925) was accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023).
+
+- *Apr 25, 2023*, One [paper](https://openreview.net/forum?id=nDKoVwNjMH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2023%2FConference%2FAuthors%23your-submissions)) was accepted to [ICML 2023](https://icml.cc/#).
 
