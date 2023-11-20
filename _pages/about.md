@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD student in the Chinese University of HongKong, Shenzhen, supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). I am honored to be remotely co-supervised by Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. Prior to that, I recieved my Bachelor of Engineering degree from Nankai University, College of Software Engineering.
+I'm a third-year PhD student in the Chinese University of HongKong, Shenzhen. Prior to that, I recieved my Bachelor of Engineering degree from Nankai University, College of Software Engineering.
 
 ### Research Interests
 
