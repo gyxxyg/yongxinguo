@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD student in the Chinese University of HongKong, Shenzhen. Prior to that, I recieved my Bachelor of Engineering degree from Nankai University, College of Software Engineering.
+I'm a fourth-year PhD student in the Chinese University of HongKong, Shenzhen. Prior to that, I recieved my Bachelor of Engineering degree from Nankai University, College of Software Engineering.
 
 ### Research Interests
 
-- Federated Learning;
+- Collaborative Learning in Non-stationary and Heterogeneous Environments;
 - Optimization for deep learning;
 - Domain Generalization;
 
