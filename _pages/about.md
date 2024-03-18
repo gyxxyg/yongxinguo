@@ -18,6 +18,8 @@ I'm a fourth-year PhD student in the Chinese University of HongKong, Shenzhen. P
 
 ### News
 
+- *Mar 18, 2024*, join tencent as research intern.
+
 - *Sep 22, 2023*, One co-authored [paper](https://arxiv.org/abs/2205.13925) was accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 
 - *Apr 25, 2023*, One [paper](https://arxiv.org/abs/2205.13462) was accepted to [ICML 2023](https://icml.cc/#).
