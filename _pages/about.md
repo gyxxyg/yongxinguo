@@ -15,10 +15,12 @@ I'm a fourth-year PhD student in the Chinese University of HongKong, Shenzhen. P
 - Collaborative Learning in Non-stationary and Heterogeneous Environments;
 - Optimization for deep learning;
 - Domain Generalization;
+- Multi-Modal Large Language Models;
+- Video Understanding;
 
 ### News
 
-- *Mar 18, 2024*, join tencent as research intern.
+- *Mar 18, 2024*, Join tencent as research intern.
 
 - *Sep 22, 2023*, One co-authored [paper](https://arxiv.org/abs/2205.13925) was accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 
