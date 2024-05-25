@@ -18,6 +18,6 @@ author_profile: true
 1. *Towards Federated Learning on Time-Evolving Heterogeneous Data.* **Yongxin Guo**, Tao Lin, Xiaoying Tang. preprint (arXiv:2112.13246), appeared in FL-ICML workshop 2021.
 2. *Find Your Optimal Assignments On-the-fly: A Holistic Framework for Clustered Federated Learning.* **Yongxin Guo**,
 Xiaoying Tang, and Tao Lin. preprint (arXiv:2310.05397) 2023.
-3. *VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding.* **Yongxin Guo**, Jingyu Liu, Mingda Li, Xiaoying Tang, Xi Chen, Kevin Zhao. preprint 2024.
+3. *VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding.* **Yongxin Guo**, Jingyu Liu, Mingda Li, Xiaoying Tang, Xi Chen, Kevin Zhao. preprint 2024.[[paper]](https://arxiv.org/abs/2405.13382)[[code]](https://github.com/gyxxyg/VTG-LLM).
 4. *Client2Vec: Improving Federated Learning by Distribution Shifts Aware Client Indexing.* **Yongxin Guo**, Lin Wang, Xiaoying Tang, Tao Lin. preprint 2024.
-5. *Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models.* **Yongxin Guo**, Zhenglin Cheng, Xiaoying Tang, Tao Lin. preprint 2024.
+5. *Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models.* **Yongxin Guo**, Zhenglin Cheng, Xiaoying Tang, Tao Lin. preprint 2024.[[paper]](https://arxiv.org/abs/2405.14297).
