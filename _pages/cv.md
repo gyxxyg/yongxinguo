@@ -20,7 +20,7 @@ redirect_from:
 
 ### Academic Service
 
-* *Invited Reviewer*: ICML 2024, CVPR 2024, International Journal of Computer Vision.
+* *Invited Reviewer*: NeurIPS 2024, ICML 2024, CVPR 2024, International Journal of Computer Vision.
 
   
 ### Teaching Assistent
