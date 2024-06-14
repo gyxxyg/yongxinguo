@@ -12,11 +12,16 @@ I'm a fourth-year PhD student in the Chinese University of HongKong, Shenzhen. P
 
 ### Research Interests
 
-- Collaborative Learning in Non-stationary and Heterogeneous Environments;
-- Optimization for deep learning;
-- Domain Generalization;
+- Learning in Non-stationary and Heterogeneous Environments;
+  - Federated Learning;
+  - Domain Generalization and Adaptation;
+  - Distributed Optimization;
+- Training and Inference Efficiency of Transformer Models;
+  - Mixture of Experts
 - Multi-Modal Large Language Models;
-- Video Understanding;
+  - Video Temporal Grounding;
+  - Video Captioning;
+  - Any-Modal to Any Modal Models;
 
 ### News
 
