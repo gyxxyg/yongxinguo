@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD student in the Chinese University of HongKong, Shenzhen. Prior to that, I recieved my Bachelor of Engineering degree from Nankai University, College of Software Engineering.
+I'm a fourth-year PhD student at the Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). I'm also co-supervised (remotely) by Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. Prior to this, I received my Bachelor of Engineering degree from the College of Software Engineering at Nankai University. Currently, I'm a research intern at Tencent PCG.
 
 ### Research Interests
 
-- Learning in Non-stationary and Heterogeneous Environments;
+- Learning in Non-stationary and Heterogeneous Environments (2020 - 2023, at CUHKSZ);
   - Federated Learning;
   - Domain Generalization and Adaptation;
   - Distributed Optimization;
-- Training and Inference Efficiency of Transformer Models;
+- Training and Inference Efficiency of Transformer Models (2023 - present, at CUHKSZ);
   - Mixture of Experts
-- Multi-Modal Large Language Models;
+- Multi-Modal Large Language Models (2024 - present, at Tencent PCG);
   - Video Temporal Grounding;
   - Video Captioning;
   - Any-Modal to Any Modal Models;
