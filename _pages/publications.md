@@ -31,7 +31,7 @@ author_profile: true
 [![arXiv](https://img.shields.io/badge/Arxiv-2205.13462-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2205.13462) <br>
 
 > [**PITPS: Balancing Local and Global Profits for Multiple Charging Stations Management**](https://ieeexplore.ieee.org/abstract/document/10333913/) <br>
-> Jie Liu\*, Yongxin Guo\*, and Xiaoying Tang <br>
+> Jie Liu^{*}, Yongxin Guo^{*}, and Xiaoying Tang <br>
 [![SmartGridComm 2023](https://img.shields.io/badge/SmartGridComm%202023-8A2BE2)](https://ieeexplore.ieee.org/xpl/conhome/10333305/proceeding)<br>
 
 
