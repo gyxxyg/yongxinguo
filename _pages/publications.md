@@ -40,7 +40,7 @@ author_profile: true
 ### Preprint & Under review papers
 
 > [**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**](https://arxiv.org/abs/2405.14297) <br>
-> Yongxin Guo^{*}, Zhenglin Cheng^{*}, Xiaoying Tang, and Tao Lin <br>
+> Yongxin Guo*, Zhenglin Cheng*, Xiaoying Tang, and Tao Lin <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LINs-lab/DynMoE)
 [![github](https://img.shields.io/github/stars/LINs-lab/DynMoE.svg?style=social)](https://github.com/LINs-lab/DynMoE)
 [![arXiv](https://img.shields.io/badge/Arxiv-2405.14297-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14297) <br>
@@ -60,6 +60,6 @@ author_profile: true
 [![arXiv](https://img.shields.io/badge/Arxiv-2310.05397-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2310.05397) <br>
 
 > [**Towards Federated Learning on Time-Evolving Heterogeneous Data**](https://arxiv.org/abs/2112.13246) <br>
-> Yongxin Guo^{*}, Tao Lin^{*}, and Xiaoying Tang <br>
+> Yongxin Guo*, Tao Lin*, and Xiaoying Tang <br>
 [![arXiv](https://img.shields.io/badge/Arxiv-2112.13246-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2112.13246) <br>
 
