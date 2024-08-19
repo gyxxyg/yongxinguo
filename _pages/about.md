@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD student at the Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). I'm also co-supervised (remotely) by Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. Prior to this, I received my Bachelor of Engineering degree from the College of Software Engineering at Nankai University. Currently, I'm a research intern at Tencent PCG.
+I'm a fourth-year PhD student at the Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). I'm also co-supervised (remotely) by Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. Prior to this, I received my Bachelor of Engineering degree from the College of Software Engineering at Nankai University. Presently, I serve as a research intern at Tencent PCG and am actively seeking employment opportunities.
 
 ### Research Interests
 
@@ -32,4 +32,7 @@ I'm a fourth-year PhD student at the Chinese University of Hong Kong, Shenzhen, 
 - *Sep 22, 2023*, One co-authored [paper](https://arxiv.org/abs/2205.13925) was accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 
 - *Apr 25, 2023*, One [paper](https://arxiv.org/abs/2205.13462) was accepted to [ICML 2023](https://icml.cc/#).
+
+### Contact
+- Email: yongxinguo@link.cuhk.edu.cn
 
