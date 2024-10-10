@@ -39,6 +39,12 @@ author_profile: true
 
 ### Preprint & Under review papers
 
+> [**TRACE: Temporal Grounding Video LLM via Casual Event Modeling**](https://arxiv.org/abs/2410.05643) <br>
+> Yongxin Guo, Jingyu Liu, Mingda Li, Xiaoying Tang, Qingbin Liu, Xi Chen <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/gyxxyg/TRACE)
+[![github](https://img.shields.io/github/stars/gyxxyg/TRACE.svg?style=social)](https://github.com/gyxxyg/TRACE)
+[![arXiv](https://img.shields.io/badge/Arxiv-2410.05643-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.05643) <br>
+
 > [**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**](https://arxiv.org/abs/2405.14297) <br>
 > Yongxin Guo*, Zhenglin Cheng*, Xiaoying Tang, and Tao Lin <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LINs-lab/DynMoE)
