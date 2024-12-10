@@ -9,6 +9,13 @@ author_profile: true
 
 ### Conference papers
 
+> [**VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding**](https://arxiv.org/abs/2405.13382) <br>
+> Yongxin Guo, Jingyu Liu, Mingda Li, Xiaoying Tang, Xi Chen, and Kevin Zhao <br>
+[![AAAI 2025](https://img.shields.io/badge/AAAI%202025-8A2BE2)](https://aaai.org/conference/aaai/aaai-25/)
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/gyxxyg/VTG-LLM)
+[![github](https://img.shields.io/github/stars/gyxxyg/VTG-LLM.svg?style=social)](https://github.com/gyxxyg/VTG-LLM)
+[![arXiv](https://img.shields.io/badge/Arxiv-2405.13382-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.13382) <br>
+
 > [**FedRC: Tackling Diverse Distribution Shifts Challenge in Federated Learning by Robust Clustering**](https://arxiv.org/abs/2301.12379) <br>
 > Yongxin Guo, Xiaoying Tang, and Tao Lin <br>
 [![ICML 2024](https://img.shields.io/badge/ICML%202024-8A2BE2)](https://icml.cc/Conferences/2024)
@@ -50,12 +57,6 @@ author_profile: true
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LINs-lab/DynMoE)
 [![github](https://img.shields.io/github/stars/LINs-lab/DynMoE.svg?style=social)](https://github.com/LINs-lab/DynMoE)
 [![arXiv](https://img.shields.io/badge/Arxiv-2405.14297-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14297) <br>
-
-> [**VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding**](https://arxiv.org/abs/2405.13382) <br>
-> Yongxin Guo, Jingyu Liu, Mingda Li, Xiaoying Tang, Xi Chen, and Kevin Zhao <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/gyxxyg/VTG-LLM)
-[![github](https://img.shields.io/github/stars/gyxxyg/VTG-LLM.svg?style=social)](https://github.com/gyxxyg/VTG-LLM)
-[![arXiv](https://img.shields.io/badge/Arxiv-2405.13382-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.13382) <br>
 
 > [**Client2Vec: Improving Federated Learning by Distribution Shifts Aware Client Indexing**](https://arxiv.org/abs/2405.16233) <br>
 > Yongxin Guo, Lin Wang, Xiaoying Tang, and Tao Lin <br>
