@@ -24,6 +24,7 @@ I'm a fourth-year PhD student at the Chinese University of Hong Kong, Shenzhen, 
   - Any-Modal to Any Modal Models;
 
 ### News
+- *Dec 10, 2024*, One [paper](https://arxiv.org/abs/2405.13382) was accepted to [AAAI 2025](https://aaai.org/aaai-24-conference/save-the-date-aaai-25/).
 
 - *May 2, 2024*, One [paper](https://arxiv.org/abs/2301.12379) was accepted to [ICML 2024](https://icml.cc/).
 
