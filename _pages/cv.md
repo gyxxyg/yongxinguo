@@ -20,7 +20,7 @@ redirect_from:
 
 ### Academic Service
 
-* *Invited Reviewer*: ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024, CVPR 2024, International Journal of Computer Vision.
+* *Invited Reviewer*: AISTATS 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024-2025, CVPR 2024-2025, International Journal of Computer Vision.
 
   
 ### Teaching Assistent
