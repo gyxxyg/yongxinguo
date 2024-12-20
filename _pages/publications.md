@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-> $^{*}$ indicates euqal contribution.
+> $^{*}$ indicates equal contribution.
 
 ### Conference papers
 
