@@ -13,6 +13,9 @@ redirect_from:
 * B.E. in College of Software, Nankai University, 2016-2020.
 * Ph.D student in School of Science and Engineering, The Chinese University of HongKong, Shenzhen, 2020-now.
 
+### Work Experience
+* Research intern, Tencent PCG, Mar 2024- Nov 2024.
+
 ### Honors and Awards
 
 * Academic Excellence Scholarships, College of Software, Nankai University, 2016-2018.
