@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD student at the Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). I'm also co-supervised (remotely) by Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. Prior to this, I received my Bachelor of Engineering degree from the College of Software Engineering at Nankai University. Presently, I serve as a research intern at Tencent PCG and am actively seeking employment opportunities.
+I'm a final-year PhD student at the Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). I'm also co-supervised (remotely) by Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. Prior to this, I received my Bachelor of Engineering degree from the College of Software Engineering at Nankai University.
 
 ### Research Interests
 
