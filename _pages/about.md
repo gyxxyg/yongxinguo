@@ -24,6 +24,9 @@ I'm a final-year PhD student at the Chinese University of Hong Kong, Shenzhen, u
   - Any-Modal to Any Modal Models;
 
 ### News
+
+- *Jan 23, 2025*, Three papers about [clustered FL](https://arxiv.org/abs/2310.05397), [mixture of experts](https://arxiv.org/abs/2405.14297), and [video temporal grounding](https://arxiv.org/abs/2410.05643) were accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
+
 - *Dec 10, 2024*, One [paper](https://arxiv.org/abs/2405.13382) was accepted to [AAAI 2025](https://aaai.org/aaai-24-conference/save-the-date-aaai-25/).
 
 - *May 2, 2024*, One [paper](https://arxiv.org/abs/2301.12379) was accepted to [ICML 2024](https://icml.cc/).
