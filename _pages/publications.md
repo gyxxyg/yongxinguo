@@ -9,6 +9,25 @@ author_profile: true
 
 ### Conference papers
 
+> [**TRACE: Temporal Grounding Video LLM via Casual Event Modeling**](https://arxiv.org/abs/2410.05643) <br>
+> Yongxin Guo, Jingyu Liu, Mingda Li, Xiaoying Tang, Qingbin Liu, Xi Chen <br>
+[![ICLR 2025](https://img.shields.io/badge/ICLR%202025-8A2BE2)](https://iclr.cc/Conferences/2025)
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/gyxxyg/TRACE)
+[![github](https://img.shields.io/github/stars/gyxxyg/TRACE.svg?style=social)](https://github.com/gyxxyg/TRACE)
+[![arXiv](https://img.shields.io/badge/Arxiv-2410.05643-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.05643) <br>
+
+> [**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**](https://arxiv.org/abs/2405.14297) <br>
+> Yongxin Guo*, Zhenglin Cheng*, Xiaoying Tang, and Tao Lin <br>
+[![ICLR 2025](https://img.shields.io/badge/ICLR%202025-8A2BE2)](https://iclr.cc/Conferences/2025)
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LINs-lab/DynMoE)
+[![github](https://img.shields.io/github/stars/LINs-lab/DynMoE.svg?style=social)](https://github.com/LINs-lab/DynMoE)
+[![arXiv](https://img.shields.io/badge/Arxiv-2405.14297-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14297) <br>
+
+> [**Find Your Optimal Assignments On-the-fly: A Holistic Framework for Clustered Federated Learning**](https://arxiv.org/abs/2310.05397) <br>
+> Yongxin Guo, Xiaoying Tang, and Tao Lin <br>
+[![ICLR 2025](https://img.shields.io/badge/ICLR%202025-8A2BE2)](https://iclr.cc/Conferences/2025)
+[![arXiv](https://img.shields.io/badge/Arxiv-2310.05397-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2310.05397) <br>
+
 > [**VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding**](https://arxiv.org/abs/2405.13382) <br>
 > Yongxin Guo, Jingyu Liu, Mingda Li, Xiaoying Tang, Xi Chen, and Kevin Zhao <br>
 [![AAAI 2025](https://img.shields.io/badge/AAAI%202025-8A2BE2)](https://aaai.org/conference/aaai/aaai-25/)
@@ -46,25 +65,9 @@ author_profile: true
 
 ### Preprint & Under review papers
 
-> [**TRACE: Temporal Grounding Video LLM via Casual Event Modeling**](https://arxiv.org/abs/2410.05643) <br>
-> Yongxin Guo, Jingyu Liu, Mingda Li, Xiaoying Tang, Qingbin Liu, Xi Chen <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/gyxxyg/TRACE)
-[![github](https://img.shields.io/github/stars/gyxxyg/TRACE.svg?style=social)](https://github.com/gyxxyg/TRACE)
-[![arXiv](https://img.shields.io/badge/Arxiv-2410.05643-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.05643) <br>
-
-> [**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**](https://arxiv.org/abs/2405.14297) <br>
-> Yongxin Guo*, Zhenglin Cheng*, Xiaoying Tang, and Tao Lin <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LINs-lab/DynMoE)
-[![github](https://img.shields.io/github/stars/LINs-lab/DynMoE.svg?style=social)](https://github.com/LINs-lab/DynMoE)
-[![arXiv](https://img.shields.io/badge/Arxiv-2405.14297-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14297) <br>
-
 > [**Client2Vec: Improving Federated Learning by Distribution Shifts Aware Client Indexing**](https://arxiv.org/abs/2405.16233) <br>
 > Yongxin Guo, Lin Wang, Xiaoying Tang, and Tao Lin <br>
 [![arXiv](https://img.shields.io/badge/Arxiv-2405.16233-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.16233) <br>
-
-> [**Find Your Optimal Assignments On-the-fly: A Holistic Framework for Clustered Federated Learning**](https://arxiv.org/abs/2310.05397) <br>
-> Yongxin Guo, Xiaoying Tang, and Tao Lin <br>
-[![arXiv](https://img.shields.io/badge/Arxiv-2310.05397-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2310.05397) <br>
 
 > [**Towards Federated Learning on Time-Evolving Heterogeneous Data**](https://arxiv.org/abs/2112.13246) <br>
 > Yongxin Guo*, Tao Lin*, and Xiaoying Tang <br>
