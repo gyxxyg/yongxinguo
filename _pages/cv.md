@@ -15,6 +15,7 @@ redirect_from:
 
 ### Work Experience
 * Research intern, Tencent PCG, Mar 2024- Nov 2024.
+* Multimodal Algorithm Engineer, Taobao and Tmall Group, Mar 2025 - present
 
 ### Honors and Awards
 
@@ -23,7 +24,7 @@ redirect_from:
 
 ### Academic Service
 
-* *Invited Reviewer*: AISTATS 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024-2025, CVPR 2024-2025, International Journal of Computer Vision.
+* *Invited Reviewer*: AISTATS 2025, ICLR 2025, AAAI 2025, NeurIPS 2024-2025, ICML 2024-2025, CVPR 2024-2025, ICCV 2025, ICME 2025, IJCV, TMC.
 
   
 ### Teaching Assistent
