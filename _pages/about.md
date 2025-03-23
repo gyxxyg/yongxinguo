@@ -18,12 +18,14 @@ I'm a final-year PhD student at the Chinese University of Hong Kong, Shenzhen, u
   - Distributed Optimization;
 - Training and Inference Efficiency of Transformer Models (2023 - present, at CUHKSZ);
   - Mixture of Experts
-- Multi-Modal Large Language Models (2024 - present, at Tencent PCG);
+- Multi-Modal Large Language Models (2024 - present, at Tencent PCG and Alibaba);
   - Video Temporal Grounding;
   - Video Captioning;
-  - Any-Modal to Any Modal Models;
+  - VLLM2Vec;
 
 ### News
+
+- *Mar 13, 2025*, Join Alibaba.
 
 - *Jan 23, 2025*, Three papers about [clustered FL](https://arxiv.org/abs/2310.05397), [mixture of experts](https://arxiv.org/abs/2405.14297), and [video temporal grounding](https://arxiv.org/abs/2410.05643) were accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
 
