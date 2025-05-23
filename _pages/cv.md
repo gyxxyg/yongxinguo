@@ -11,11 +11,11 @@ redirect_from:
 
 ### Education
 * B.E. in College of Software, Nankai University, 2016-2020.
-* Ph.D student in School of Science and Engineering, The Chinese University of HongKong, Shenzhen, 2020-now.
+* Ph.D student in School of Science and Engineering, The Chinese University of HongKong, Shenzhen, 2020-2025.
 
 ### Work Experience
-* Research intern, Tencent PCG, Mar 2024- Nov 2024.
-* Multimodal Algorithm Engineer, Taobao and Tmall Group, Mar 2025 - present
+* Research intern, Tencent PCG, Mar 2024-Nov 2024.
+* Research Engineer, Taobao and Tmall Group, Mar 2025-present
 
 ### Honors and Awards
 
