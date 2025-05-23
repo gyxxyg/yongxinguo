@@ -9,6 +9,14 @@ author_profile: true
 
 ### Conference papers
 
+> [**Camouflaged Variational Graph AutoEncoder against Attribute Inference Attacks for Cross-Domain Recommendation**](https://ieeexplore.ieee.org/abstract/document/10980364)<br>
+> Yudi Xiong, Yongxin Guo, Weike Pan, Qiang Yang, Zhong Ming, Xiaojin Zhang, Han Yu, Tao Lin, Xiaoying Tang<br>
+[![TKDE 2025](https://img.shields.io/badge/TKDE%202025-8A2BE2)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
+
+> [**Personalized Federated Management and Load Balancing for Multiple Charging Stations**](https://ieeexplore.ieee.org/abstract/document/10989754/)<br>
+> Jie Liu; Yongxin Guo; Xi Leng; Xiaoying Tang<br>
+[![TII 2025](https://img.shields.io/badge/TII%202025-8A2BE2)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
+
 > [**Enhancing Long Video Understanding via Hierarchical Event-Based Memory**](https://arxiv.org/abs/2410.05643) <br>
 > Dingxin Cheng, Mingda Li, Jingyu Liu, Yongxin Guo, Bin Jiang, Qingbin Liu, Xi Chen, Bo Zhao <br>
 [![ICME 2025](https://img.shields.io/badge/ICME%202025-8A2BE2)](https://2025.ieeeicme.org/)
@@ -31,6 +39,8 @@ author_profile: true
 > [**Find Your Optimal Assignments On-the-fly: A Holistic Framework for Clustered Federated Learning**](https://arxiv.org/abs/2310.05397) <br>
 > Yongxin Guo, Xiaoying Tang, and Tao Lin <br>
 [![ICLR 2025](https://img.shields.io/badge/ICLR%202025-8A2BE2)](https://iclr.cc/Conferences/2025)
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LINs-lab/HCFL)
+[![github](https://img.shields.io/github/stars/LINs-lab/DynMoE.svg?style=social)](https://github.com/LINs-lab/HCFL)
 [![arXiv](https://img.shields.io/badge/Arxiv-2310.05397-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2310.05397) <br>
 
 > [**VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding**](https://arxiv.org/abs/2405.13382) <br>
