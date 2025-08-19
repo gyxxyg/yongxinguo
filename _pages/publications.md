@@ -12,6 +12,8 @@ author_profile: true
 > [**Client2Vec: Improving Federated Learning by Distribution Shifts Aware Client Indexing**](https://arxiv.org/abs/2405.16233) <br>
 > Yongxin Guo, Lin Wang, Xiaoying Tang, and Tao Lin <br>
 [![ICCV 2025](https://img.shields.io/badge/ICCV%202025-8A2BE2)](https://iccv.thecvf.com/)
+> [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LINs-lab/client2vec)
+[![github](https://img.shields.io/github/stars/LINs-lab/client2vec.svg?style=social)](https://github.com/LINs-lab/client2vec)
 [![arXiv](https://img.shields.io/badge/Arxiv-2405.16233-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.16233) <br>
 
 > [**Camouflaged Variational Graph AutoEncoder against Attribute Inference Attacks for Cross-Domain Recommendation**](https://ieeexplore.ieee.org/abstract/document/10980364)<br>
@@ -84,6 +86,10 @@ author_profile: true
 
 
 ### Preprint & Under review papers
+> [**G2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance**](https://arxiv.org/abs/2508.13023) <br>
+> Yongxin Guo*, Wenbo Deng*, Zhenglin Cheng, and Xiaoying Tang <br>
+[![arXiv](https://img.shields.io/badge/Arxiv-2508.13023-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.13023) <br>
+
 
 > [**Towards Federated Learning on Time-Evolving Heterogeneous Data**](https://arxiv.org/abs/2112.13246) <br>
 > Yongxin Guo*, Tao Lin*, and Xiaoying Tang <br>
