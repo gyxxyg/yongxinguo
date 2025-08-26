@@ -88,6 +88,8 @@ author_profile: true
 ### Preprint & Under review papers
 > [**G2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance**](https://arxiv.org/abs/2508.13023) <br>
 > Yongxin Guo*, Wenbo Deng*, Zhenglin Cheng, and Xiaoying Tang <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/T-Lab-CUHKSZ/G2RPO-A)
+[![github](https://img.shields.io/github/stars/T-Lab-CUHKSZ/G2RPO-A.svg?style=social)](https://github.com/T-Lab-CUHKSZ/G2RPO-A)
 [![arXiv](https://img.shields.io/badge/Arxiv-2508.13023-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.13023) <br>
 
 
