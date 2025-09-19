@@ -9,20 +9,19 @@ author_profile: true
 
 ### Conference papers
 
+> [**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**](https://arxiv.org/abs/2505.18110) <br>
+> Zinuo Li, Xian Zhang, Yongxin Guo, Mohammed Bennamoun, Farid Boussaid, Girish Dwivedi, Luqi Gong, Qiuhong Ke <br>
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-8A2BE2)](https://neurips.cc/)
+> [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/zinuoli/TriSense)
+[![github](https://img.shields.io/github/stars/zinuoli/TriSense.svg?style=social)](https://github.com/zinuoli/TriSense)
+[![arXiv](https://img.shields.io/badge/Arxiv-2505.18110-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.18110) <br>
+
 > [**Client2Vec: Improving Federated Learning by Distribution Shifts Aware Client Indexing**](https://arxiv.org/abs/2405.16233) <br>
 > Yongxin Guo, Lin Wang, Xiaoying Tang, and Tao Lin <br>
 [![ICCV 2025](https://img.shields.io/badge/ICCV%202025-8A2BE2)](https://iccv.thecvf.com/)
 > [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LINs-lab/client2vec)
 [![github](https://img.shields.io/github/stars/LINs-lab/client2vec.svg?style=social)](https://github.com/LINs-lab/client2vec)
 [![arXiv](https://img.shields.io/badge/Arxiv-2405.16233-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.16233) <br>
-
-> [**Camouflaged Variational Graph AutoEncoder against Attribute Inference Attacks for Cross-Domain Recommendation**](https://ieeexplore.ieee.org/abstract/document/10980364)<br>
-> Yudi Xiong, Yongxin Guo, Weike Pan, Qiang Yang, Zhong Ming, Xiaojin Zhang, Han Yu, Tao Lin, Xiaoying Tang<br>
-[![TKDE 2025](https://img.shields.io/badge/TKDE%202025-8A2BE2)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
-
-> [**Personalized Federated Management and Load Balancing for Multiple Charging Stations**](https://ieeexplore.ieee.org/abstract/document/10989754/)<br>
-> Jie Liu; Yongxin Guo; Xi Leng; Xiaoying Tang<br>
-[![TII 2025](https://img.shields.io/badge/TII%202025-8A2BE2)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
 
 > [**Enhancing Long Video Understanding via Hierarchical Event-Based Memory**](https://arxiv.org/abs/2410.05643) <br>
 > Dingxin Cheng, Mingda Li, Jingyu Liu, Yongxin Guo, Bin Jiang, Qingbin Liu, Xi Chen, Bo Zhao <br>
@@ -81,6 +80,17 @@ author_profile: true
 > [**PITPS: Balancing Local and Global Profits for Multiple Charging Stations Management**](https://ieeexplore.ieee.org/abstract/document/10333913/) <br>
 > Jie Liu*, Yongxin Guo*, and Xiaoying Tang <br>
 [![SmartGridComm 2023](https://img.shields.io/badge/SmartGridComm%202023-8A2BE2)](https://ieeexplore.ieee.org/xpl/conhome/10333305/proceeding)<br>
+
+
+### Journal papers
+
+> [**Camouflaged Variational Graph AutoEncoder against Attribute Inference Attacks for Cross-Domain Recommendation**](https://ieeexplore.ieee.org/abstract/document/10980364)<br>
+> Yudi Xiong, Yongxin Guo, Weike Pan, Qiang Yang, Zhong Ming, Xiaojin Zhang, Han Yu, Tao Lin, Xiaoying Tang<br>
+[![TKDE 2025](https://img.shields.io/badge/TKDE%202025-8A2BE2)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
+
+> [**Personalized Federated Management and Load Balancing for Multiple Charging Stations**](https://ieeexplore.ieee.org/abstract/document/10989754/)<br>
+> Jie Liu; Yongxin Guo; Xi Leng; Xiaoying Tang<br>
+[![TII 2025](https://img.shields.io/badge/TII%202025-8A2BE2)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
 
 
 
