@@ -9,24 +9,20 @@ author_profile: true
 
 ### Conference papers
 
-> [**G2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance**](https://arxiv.org/abs/2604.06699) <br>
+> [**G2RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance**](https://arxiv.org/abs/2508.13023) <br>
 > Yongxin Guo*, Wenbo Deng*, Zhenglin Cheng, and Xiaoying Tang <br>
-[![ACL 2026](https://img.shields.io/badge/ACL%202026-8A2BE2)](https://2026.aclweb.org/)
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/T-Lab-CUHKSZ/aPSF)
-[![github](https://img.shields.io/github/stars/T-Lab-CUHKSZ/aPSF.svg?style=social)](https://github.com/T-Lab-CUHKSZ/aPSF)
-[![arXiv](https://img.shields.io/badge/Arxiv-2604.06699-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.06699) <br>
-
-
-> [**Adaptive Prompt Structure Factorization: A Framework for Self-Discovering and Optimizing Compositional Prompt Programs**](https://arxiv.org/abs/2508.13023) <br>
-> Haoyue Liu, Zhichao Wang, Yongxin Guo, Haoran Shou, Xiaoying Tang <br>
 [![ACL 2026](https://img.shields.io/badge/ACL%202026-8A2BE2)](https://2026.aclweb.org/)
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/T-Lab-CUHKSZ/G2RPO-A)
 [![github](https://img.shields.io/github/stars/T-Lab-CUHKSZ/G2RPO-A.svg?style=social)](https://github.com/T-Lab-CUHKSZ/G2RPO-A)
 [![arXiv](https://img.shields.io/badge/Arxiv-2508.13023-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.13023) <br>
 
-> **Adaptive Prompt Structure Factorization: A Framework for Self-Discovering and Optimizing Compositional Prompt Programs** <br>
+
+> [**Adaptive Prompt Structure Factorization: A Framework for Self-Discovering and Optimizing Compositional Prompt Programs**](https://arxiv.org/abs/2604.06699) <br>
 > Haoyue Liu, Zhichao Wang, Yongxin Guo, Haoran Shou, Xiaoying Tang <br>
-[![ACL 2026](https://img.shields.io/badge/ACL%202026-8A2BE2)](https://2026.aclweb.org/) <br>
+[![ACL 2026](https://img.shields.io/badge/ACL%202026-8A2BE2)](https://2026.aclweb.org/)
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/T-Lab-CUHKSZ/aPSF)
+[![github](https://img.shields.io/github/stars/T-Lab-CUHKSZ/aPSF.svg?style=social)](https://github.com/T-Lab-CUHKSZ/aPSF)
+[![arXiv](https://img.shields.io/badge/Arxiv-2604.06699-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.06699) <br>
 
 > [**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**](https://arxiv.org/abs/2505.18110) <br>
 > Zinuo Li, Xian Zhang, Yongxin Guo, Mohammed Bennamoun, Farid Boussaid, Girish Dwivedi, Luqi Gong, Qiuhong Ke <br>
