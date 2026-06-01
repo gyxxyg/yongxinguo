@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research engineer at Taobao and Tmall Group. Prior to that, I recieved by PhD degree at the Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying) and Prof. [Tao Lin](https://tlin-taolin.github.io/). 
+I'm a research engineer at Bytedance. Prior to that, I recieved by PhD degree at the Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying) and Prof. [Tao Lin](https://tlin-taolin.github.io/). 
 
 ### Research Interests
 
