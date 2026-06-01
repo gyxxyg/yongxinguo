@@ -15,7 +15,8 @@ redirect_from:
 
 ### Work Experience
 * Research intern, Tencent PCG, Mar 2024-Nov 2024.
-* Research Engineer, Taobao and Tmall Group, Mar 2025-present
+* Research Engineer, Taobao and Tmall Group, Mar 2025-June 2026
+* Research Engineer, Bytedance, June 2026-present
 
 ### Honors and Awards
 
